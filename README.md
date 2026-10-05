@@ -1,14 +1,5 @@
 # Desarrollo de Sistemas Móviles — Tarea 1: Android Basics with Compose
 
-## Información del Estudiante
-* **Universidad:** Universidad Nacional Mayor de San Marcos
-* **Facultad:** Facultad de Ingeniería de Sistemas e Informática (FISI)
-* **Curso:** Desarrollo de Sistemas Móviles
-* **Estudiante:** Bryan Joel Rodriguez Tanta
-* **Código de matrícula:** 23200204
-
----
-
 ## Descripción del Proyecto
 Este repositorio contiene la resolución integral de las **Rutas 1 y 3** de la **Unidad 1 de Android Basics with Compose**, desarrollada en el entorno oficial de Google Developers y Android Studio.
 
